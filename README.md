@@ -1,10 +1,18 @@
 # EDA-Open-Data-Analysis
 
-### Juan Diego Llorente
-### Sara Valentina Cortes 
-### Samuel Acosta Aristizabal
-
 *Link de archivo colab:* https://colab.research.google.com/drive/1EfDai1OVLZor4WL1C40CJHqF8UqdFH72?usp=sharing
+
+#### - Juan Diego Llorente
+#### - Sara Valentina Cortes 
+#### - Samuel Acosta Aristizabal
+
+
+*Link de archivo BD 1:* https://www.kaggle.com/datasets/thedrzee/student-social-media-and-relationships?resource=download
+
+*Link de archivo BD 2:* https://archive.ics.uci.edu/dataset/352/online+retail
+
+*Link de archivo BD 3:* https://medata.gov.co/node/16622
+
 
 # Análisis Exploratorio de Datos (EDA) - Adicción a Redes Sociales en Estudiantes
 
