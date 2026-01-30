@@ -1,6 +1,10 @@
 # EDA-Open-Data-Analysis
 
-Link de archivo colab: https://colab.research.google.com/drive/1EfDai1OVLZor4WL1C40CJHqF8UqdFH72?usp=sharing
+### Juan Diego Llorente
+### Sara Valentina Cortes 
+### Samuel Acosta Aristizabal
+
+*Link de archivo colab:* https://colab.research.google.com/drive/1EfDai1OVLZor4WL1C40CJHqF8UqdFH72?usp=sharing
 
 # Análisis Exploratorio de Datos (EDA) - Adicción a Redes Sociales en Estudiantes
 
