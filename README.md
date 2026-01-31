@@ -13,7 +13,6 @@
 
 *Link de archivo BD 3:* https://medata.gov.co/node/16622
 
-
 # Análisis Exploratorio de Datos (EDA) - Adicción a Redes Sociales en Estudiantes
 
 ## 1. Introducción
@@ -60,7 +59,7 @@ Filas, Columnas: (705, 13)
 RangeIndex: 705 entries, 0 to 704
 Data columns (total 13 columns):
  #   Column                        Non-Null Count  Dtype  
----  ------                        --------------  -----  
+---  ------                        --------------  -------
  0   Student_ID                    705 non-null    int64  
  1   Age                           705 non-null    int64  
  2   Gender                        705 non-null    object 
@@ -100,7 +99,7 @@ memory usage: 71.7+ KB
 
 - La mitad de la muestra se encuentra en el nivel académico de pregrado (Undergraduate).
 - Más de la mitad de los encuestados son solteros.
-- India es el país de residencia más frecuente entre los encuestados.
+- India es el país con más encuestados.
 - Instagram es la plataforma de redes sociales más utilizada.
 - Más de la mitad de los encuestados perciben que el uso de redes sociales afecta su rendimiento académico.
 - En promedio, los encuestados reportan un puntaje de adicción a redes sociales de 6.4 (en una escala de 1 a 10).
@@ -242,5 +241,3 @@ Los hallazgos de este EDA revelan patrones significativos en la relación entre 
 - **Vulnerabilidad de la Salud Mental:** La salud mental parece ser una variable central, fuertemente influenciada por la adicción a las redes sociales y el sueño. Intervenciones dirigidas a mejorar los hábitos de sueño y reducir el uso excesivo de redes sociales podrían tener un impacto positivo en la salud mental general de los estudiantes.
 - **Segmentos Dominantes:** Los estudiantes de pregrado son el grupo demográfico más grande, y Instagram la plataforma más usada, lo que podría guiar campañas de concientización específicas.
 - **Oportunidades de Intervención:** Dada la alta correlación entre adicción, conflictos y salud mental, las universidades o instituciones educativas podrían implementar programas de bienestar que aborden el uso saludable de redes sociales y la gestión del tiempo, especialmente para la población 'Undergraduate' y los usuarios de Instagram.
-
-Este análisis proporciona una base sólida para futuras investigaciones y el desarrollo de estrategias para mitigar los efectos negativos de la adicción a las redes sociales en la población estudiantil.
